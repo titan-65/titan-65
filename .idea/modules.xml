@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Next.js/review-me/.idea/review-me.iml" filepath="$PROJECT_DIR$/../Next.js/review-me/.idea/review-me.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/titan-65.iml" filepath="$PROJECT_DIR$/.idea/titan-65.iml" />
+    </modules>
+  </component>
+</project>

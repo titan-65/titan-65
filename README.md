@@ -67,7 +67,7 @@
 - Releasing Soon
 
 **COMING SOON: Working Ep1**
-![Late Night Working! ](images/reacrds.jpg "Late night working Ep.1")
+![Late Night Working! ](images/reacrds.jpg)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...]

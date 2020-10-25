@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/static/v1?label=Titan&message=1&color=success&style=for-the-badge&logo=Vue.js"/>
 
 
-### I'm a Husband, Father, Developer, and Teacher!
+### I'm a Father, Developer, and Teacher!
 
 - 🔭 I’m currently working on a [Next.js][website]!
 - 🌱 I’m currently learning **Next.js**

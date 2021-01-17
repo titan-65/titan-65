@@ -15,9 +15,9 @@
 
 ### I'm a Father, Developer, and Teacher!
 
-- 🔭 I’m currently working on a [Next.js][website]!
-- 🌱 I’m currently learning **Next.js**
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🔭 I’m currently working on a [Reactjs and Vue.js][website]!
+- 🌱 I’m currently learning **Svelte**
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play video games
 
 

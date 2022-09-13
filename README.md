@@ -9,7 +9,7 @@
 
 **UPDATE**
 
-Streaming on Twitch [@ceodevforce](www.twitch.tv/ceodevforce)
+Streaming on Twitch [@ceodevforce](https://www.twitch.tv/ceodevforce)
 >
 
 ## 2020
